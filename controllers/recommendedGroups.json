@@ -1,0 +1,18 @@
+  [
+    {
+      "name": "Leisure",
+      "image": "https://picsum.photos/id/20/200"
+    },
+    {
+      "name": "Activism",
+      "image": "https://picsum.photos/id/40/200"
+    },
+    {
+      "name": "MBA",
+      "image": "https://picsum.photos/id/58/200"
+    },
+    {
+      "name": "Philosophy",
+      "image": "https://picsum.photos/id/103/200"
+    }
+  ]

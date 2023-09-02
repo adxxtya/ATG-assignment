@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "post_image": "/article.png",
+    "post_type": "✍️ Article",
+    "post_title": "What if famous brands had regular fonts? Meet RegulaBrands!",
+    "post_description": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+    "author_image": "https://picsum.photos/id/64/200",
+    "author_name": "Stacey Gwen",
+    "post_views": "283",
+    "date": null,
+    "location": null,
+    "redirect_link": null,
+    "job_type": null
+  },
+  {
+    "id": "2",
+    "post_image": "/education.png",
+    "post_type": "🔬️ Education",
+    "post_title": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+    "post_description": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+    "author_image": "https://picsum.photos/id/91/200",
+    "author_name": "Alex Mishra",
+    "post_views": "1.4k",
+    "date": null,
+    "location": null,
+    "redirect_link": null
+  },{
+    "id": "3",
+    "post_image": "/meetup.png",
+    "post_type": "🗓️ Meetup",
+    "post_title": "Finance & Investment Elite Social Mixer @Lujiazui",
+    "post_description": null,
+    "author_image": "https://picsum.photos/id/64/200",
+    "author_name": "Ronal Jones",
+    "post_views": "24k",
+    "date": "Fri, 12 Oct, 2018",
+    "location": "Ahmedabad, India",
+    "redirect_link": "https://google.com",
+    "job_type": null
+  },{
+    "post_image": null,
+    "post_type": "💼️ Job",
+    "post_title": "Software Developer",
+    "post_description": null,
+    "author_image": "https://picsum.photos/id/375/200",
+    "author_name": "Joesph Gray",
+    "post_views": "1k",
+    "date": null,
+    "location": "Noida, India",
+    "redirect_link": null,
+    "job_type": "Innovaccer Analytics Private Ltd."
+  }
+]
